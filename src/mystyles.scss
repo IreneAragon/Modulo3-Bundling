@@ -1,0 +1,18 @@
+$bg-color: teal;
+$msg-color: aliceblue;
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+.title-background {
+  background-color: $bg-color;
+  max-width: fit-content;
+  padding: 1em;
+  color: $msg-color;
+  font-size: 32px;
+}
+
+img {
+  max-width: 300px;
+}
