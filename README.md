@@ -37,4 +37,8 @@ npm run build:prod
 ```
 npm start
 ```
-###### Se abrirá automáticamente una ventana del navegador con el proyecto, de no ser así coloca en tu navegador --> Localhost:8081
+###### Se abrirá automáticamente una ventana del navegador con el proyecto, de no ser así coloca en tu navegador --> localhost:8081
+##### Conocer el peso de las librerías del bundle 
+```
+npm run build:perf
+```
