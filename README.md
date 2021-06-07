@@ -21,19 +21,19 @@ Webpack and Parcel exercices
 
 ### Comandos que necesitarás: 
 
-##### Instala los paquetes configurados 
+##### Instalar los paquetes configurados 
 ```
 npm install
 ```
-##### Levanta el proyecto en modo desarrollo 
+##### Levantar el proyecto en modo desarrollo 
 ```
 npm run build:dev
 ```
-##### Levanta el proyecto en modo producción 
+##### Levantar el proyecto en modo producción 
 ```
 npm run build:prod 
 ```
-##### Inicia el servidor  
+##### Iniciar el servidor  
 ```
 npm start
 ```
